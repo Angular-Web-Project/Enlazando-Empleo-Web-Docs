@@ -1,31 +1,31 @@
 # Enlazando-Empleo-Web-Docs
 
-# Comandos
+## Comandos
 
-- Comandos para la identificación de los commits
+### *Comandos para la identificación de los commits*
 
 git config --global user.name "Apellidos Nombre"
 
 git config --global user.email "correo"
 
-- Comando para tener una copia en su dispositivo
+### *Comando para tener una copia en su dispositivo*
 
 git clone https://github.com/Angular-Web-Project/Enlazando-Empleo-Web-Docs.git
 
-- Comando para agregar a cambios al stage
+### *Comando para agregar a cambios al stage*
 
 git add ruta_archivo
 
 git add . (para seleccionar todos los archivos) 
 
-- Comandos para el commit (después del stage)
+### *Comandos para el commit (después del stage)*
 
 git commit -m "mensaje_descriptivo" 
 
-- Comando para guardar los cambios (después del commit) 
+### *Comando para guardar los cambios (después del commit)*
 
 git push origin main
 
-- Comando para obtener el documento actualizado 
+### *Comando para obtener el documento actualizado*
 
 git pull origin main
