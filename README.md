@@ -10,7 +10,7 @@ git config --global user.email "correo"
 
 - Comando para tener una copia en su dispositivo
 
-git clone
+git clone https://github.com/Angular-Web-Project/Enlazando-Empleo-Web-Docs.git
 
 - Comando para agregar a cambios al stage
 
